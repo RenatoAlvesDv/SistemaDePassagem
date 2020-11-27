@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\bin\Debug\netcoreapp3.1\SistemaDePassagem.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\bin\Debug\netcoreapp3.1\SistemaDePassagem.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\bin\Debug\netcoreapp3.1\SistemaDePassagem.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\bin\Debug\netcoreapp3.1\SistemaDePassagem.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\bin\Debug\netcoreapp3.1\SistemaDePassagem.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\bin\Debug\netcoreapp3.1\SistemaDePassagem.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDePassagem\obj\Debug\netcoreapp3.1\SistemaDePassagem.genruntimeconfig.cache
